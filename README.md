@@ -34,7 +34,7 @@ Webpack
 Vite
 Redux
 REST API
-Docker (если используешь — можно добавить)
+Docker
 🚀 Projects
 🏫 Online School Platform
 
@@ -49,8 +49,9 @@ backend + frontend архитектура
 Разработка CRM системы (frontend + backend).
 
 управление пользователями
+сделки
+интеграция с мегафон и робовойс
 бизнес-логика
-структура данных
 интерфейс админ-панели
 🤝 WISP — партнерский стартап
 
