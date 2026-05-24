@@ -1,16 +1,8 @@
 👋 Egor — Fullstack Developer
 
-Fullstack разработчик, специализируюсь на разработке веб-сервисов, CRM-систем, образовательных платформ и MVP продуктов.
+Fullstack разработчик, специализируюсь на разработке веб-сервисов, CRM-систем, образовательных платформ, лендингах и MVP продуктовб
 
 Работаю на стеке: Node.js / PHP / Next.js, строю как frontend, так и backend архитектуру, включая базы данных и интеграции.
-
-🌍 About me
-🌍 Based in Russia
-💻 Fullstack Web Developer
-🧠 Currently working with: Node.js, PHP, Next.js
-🚀 Focus: CRM systems, SaaS, EdTech platforms, MVP products
-🤝 Open to collaboration and partnership projects
-🧩 What I do
 
 Я разрабатываю:
 
