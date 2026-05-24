@@ -1,4 +1,4 @@
-👋 Egor — Fullstack Developer
+Fullstack Developer
 
 Fullstack разработчик, специализируюсь на разработке веб-сервисов, CRM-систем, образовательных платформ, лендингах и MVP продуктовб
 
@@ -59,8 +59,7 @@ backend + frontend архитектура
 https://wiiisp.space/vacancies
 работа над продуктовой частью
 разработка функционала платформы
-🌐 Website development
-https://dachistayavoda.ru/
+
 
 Разработка веб-проекта (frontend + backend)
 
@@ -73,6 +72,9 @@ https://dachistayavoda.ru/
 💡 Experience
 
 Работаю как fullstack разработчик в коммерческих проектах, включая продуктовую разработку и партнерские проекты.
+
+🌐 Website development
+https://dachistayavoda.ru/
 
 Фокус:
 
