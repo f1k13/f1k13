@@ -1,89 +1,99 @@
-Fullstack Developer
+# 👋 Егор — Fullstack Developer
 
-Fullstack разработчик, специализируюсь на разработке веб-сервисов, CRM-систем, образовательных платформ, лендингах и MVP продуктовб
+Fullstack разработчик, специализируюсь на веб-сервисах, CRM-системах, образовательных платформах и MVP.
 
-Работаю на стеке: Node.js / PHP / Next.js, строю как frontend, так и backend архитектуру, включая базы данных и интеграции.
+Работаю на стеке **Node.js / PHP / Next.js**, занимаюсь как frontend, так и backend разработкой.
 
-Я разрабатываю:
+---
 
-CRM-системы
-SaaS и веб-сервисы
-Образовательные платформы (EdTech)
-Админ-панели
-Landing pages и маркетинговые сайты
-MVP для стартапов
-Backend API и интеграции
-Telegram-боты и автоматизацию
-⚙️ Tech Stack
-Frontend:
-Next.js
-React
-TypeScript
-Tailwind CSS
-HTML / CSS
-Backend:
-Node.js
-PHP
-NestJS
-Express
-Database:
-PostgreSQL
-Tools:
-Git
-Webpack
-Vite
-Redux
-REST API
-Docker
-🚀 Projects
-🏫 Online School Platform
 
-Fullstack разработка образовательной платформы.
+---
 
-личные кабинеты
-управление курсами
-backend + frontend архитектура
-работа с пользователями и логикой обучения
-🧠 CRM System
+## 🧩 What I do
 
-Разработка CRM системы (frontend + backend).
+- CRM systems  
+- SaaS / Web services  
+- EdTech platforms  
+- Admin panels  
+- Landing pages  
+- MVP for startups  
+- REST API development  
+- Telegram bots  
 
-управление пользователями
-сделки
-интеграция с мегафон и робовойс
-бизнес-логика
-интерфейс админ-панели
-🤝 WISP — партнерский стартап
+---
 
-Участие в разработке стартапа в партнерском формате.
+## ⚙️ Tech Stack
 
+**Frontend:**
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+
+**Backend:**
+- Node.js
+- PHP
+- NestJS
+- Express
+- docker
+
+
+
+**Database:**
+- PostgreSQL
+- Redis
+- Tarantool
+
+**Tools:**
+- Git
+- REST API
+- Vite
+- Webpack
+
+---
+
+## 🚀 Projects
+
+### 🏫 Online School Platform
+Fullstack разработка образовательной платформы (frontend + backend).
+
+---
+
+### 🧠 CRM System
+Разработка CRM системы:
+- пользователи
+- сделки
+- интеграция с мегафон и робовойс
+- бизнес-логика
+- админка
+- backend + frontend
+
+---
+
+### 🤝 WISP Startup
+Партнерский стартап:
 https://wiiisp.space/vacancies
-работа над продуктовой частью
-разработка функционала платформы
 
+---
 
-Разработка веб-проекта (frontend + backend)
+### 🌐 Website development
+https://dachistayavoda.ru/
 
-🔒 NDA Project
+Fullstack разработка веб-проекта.
 
-На текущий момент работаю fullstack разработчиком (PHP + Node + Next.js) в продуктовой компании.
+---
+
+### 🔒 NDA Project
+Работаю fullstack разработчиком (PHP + Node + Next.js) в продуктовой компании.
 
 Проект под NDA.
 
-💡 Experience
+---
 
-Работаю как fullstack разработчик в коммерческих проектах, включая продуктовую разработку и партнерские проекты.
+## 📫 Contact
 
-🌐 Website development
-https://dachistayavoda.ru/
+- Telegram: https://t.me/egor_devs_22  
+- Email: f0x156ju@gmail.com  
+- GitHub: https://github.com/f1k13  
 
-Фокус:
-
-стабильная архитектура
-быстрая разработка MVP
-интеграции и сложная backend логика
-работа в продуктовой команде
-📫 Contact
-Telegram: [@egor_devs_22](https://t.me/egor_devs_22)
-Email: f0x156ju@gmail.com
-GitHub: https://github.com/f1k13
+---
